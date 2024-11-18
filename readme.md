@@ -2,7 +2,7 @@
 
 ## Description
 This pipeline was built and deployed by me.
-Note: I didnt use delta lake because the data needs to handle incremental processing.
+Note: I didnt use delta lake because the data processing was ncremental.
 
 ## Pipeline
 ![Image Alt Text](images/ecommerce-revenue-pipeline.png)
