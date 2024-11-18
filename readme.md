@@ -1,4 +1,4 @@
 # Ecommerce Revenue Pipeline
 
 ## Pipeline
-![Image Alt Text](ecommerce-revenue-pipeline.png)
+![Image Alt Text](images/ecommerce-revenue-pipeline.png)
