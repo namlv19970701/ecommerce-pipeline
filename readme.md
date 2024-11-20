@@ -5,7 +5,7 @@ This pipeline was built and deployed by me.
 Note: I didnt use delta lake because the data processing was incremental.
 
 ## Pipeline
-![Image Alt Text](images/ecommerce-revenue-pipeline.png)
+![Image Alt Text](images/e-commerce-revenue-pipeline.png)
 
 ## Explain icons
 
