@@ -5,10 +5,12 @@ This pipeline was built and deployed by me.
 Note: I didnt use delta lake because the data processing was incremental.
 
 ## Pipeline
-On premise.
+On premise
+
 ![Image Alt Text](images/e-commerce-revenue-pipeline.png)
 
 This is a prototype on aws
+
 ![Updating...](images/e-commerce-revenue-pipeline-on-aws.png)
 
 ## Explain icons
