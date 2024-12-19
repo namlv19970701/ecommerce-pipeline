@@ -7,7 +7,7 @@ Note: I didnt use delta lake because the data processing was incremental.
 ## Pipeline
 On premise
 
-![Image Alt Text](images/ecommerce data pipeline.png)
+![Image Alt Text](images/ecommerce-data-pipeline.png)
 
 This is a prototype on aws
 
