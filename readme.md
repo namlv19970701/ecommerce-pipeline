@@ -2,7 +2,6 @@
 
 ## Description
 This pipeline was built and deployed by me.
-Note: I didnt use delta lake because the data processing was incremental.
 
 ## Pipeline
 On premise
