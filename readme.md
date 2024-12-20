@@ -44,4 +44,6 @@ Only list main attributes
 |item.total_follower|integer|
 |item.review_count|integer|
 |item.days_since_joined|integer|
-
+|meta|struct|
+|meta.channel_name|string|
+|meta.crawled_at|timestamp|
