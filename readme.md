@@ -22,7 +22,7 @@ Only list main attributes
 |item.sku|string|
 |item.quantity_sold|integer|
 |item.price|bigint|
-|item.origin_price|bigint|
+|item.original_price|bigint|
 |item.discount|bigint|
 |item.discount_rate|double|
 |item.rating_average|double|
