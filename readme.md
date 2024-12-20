@@ -27,6 +27,7 @@ Only list main attributes
 |item.discount_rate|double|
 |item.rating_average|double|
 |item.shop_id|string|
+|item.review_count|double|
 |meta|struct|
 |meta.channel_name|string|
 |meta.crawled_at|timestamp|
